@@ -28,7 +28,7 @@ o Trees (small, med, large, XL)
 
 o Only the chicken, grass, road, river, and a few cars have been actually implemented. All else is in the files but arent in the game.
 
-=======================================================================================================================================
+=========================================================================================================
 
 Things to Look Out For
 
@@ -55,7 +55,7 @@ Things to Look Out For
 -The level is continuously generated; grass road and river keep spawning and the area behind the chicken does get destroyed. Within the 
 game however, the land seems to spawn a bit oddly but appears correctly the more the player advances.
 
-=======================================================================================================================================
+=========================================================================================================
 
 Conclusion
 -This project was very difficult for me. I had a slow and frustrating time trying to figure out a lot of these things only to not get very far. Personally, the worst part about it all is that I feel like I didn't learn much from this project among other things. 
