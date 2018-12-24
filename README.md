@@ -1,18 +1,31 @@
 # CrossyRoad
 
 Assets Imported (Almost all assets were oddly recolored when imported)
+
 o Chicken/Squashed Chicken
+
 o Tree Frog/Squashed Tree Frog
+
 o Mad Wizard/Squashed Mad Wizard
+
 o Hipster Whale/Squashed Hipster Whale
+
 o Grass
+
 o Road
+
 o River
+
 o Blue Car
+
 o Orange Car
+
 o Purple Car (crossy_car)
+
 o Taxi
+
 o Trees (small, med, large, XL)
+
 o Only the chicken, grass, road, river, and a few cars have been actually implemented. All else is in the files but arent in the game.
 
 Things to Look Out For
