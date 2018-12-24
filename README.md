@@ -61,9 +61,16 @@ Download Process
 
 -This project was very difficult to upload for me to upload so many files and folders are in .zip format. For the project to run properly, follow this format:
 
-  -All files should be in the CrossyRoad folder
+  -All files should be in the CrossyRoad folder. The folders within each .zip file should be extracted and placed within the folder the   .zip was found in.
   
-  -The first things to look for when opening the CrossyRoad folder is Config, Content, Intermediate, Saved, and CrossyRoad.uproject. In    GitHub, Config, Content, and Intermediate are all found in one .zip. The Saved folder had to be split into 2 other .zip folders.
+  -The first things to look for when opening the CrossyRoad folder is Config, Content, Intermediate, Saved, and CrossyRoad.uproject. In    GitHub, Config, Content, and Intermediate are all found in one .zip. The Saved folder had to be split into 3 other .zip folders.
+  
+  -Inside the Saved folder should be 3 .zip folders: Autosaves, Backup, Config-Logs, and AutoScreenshot.png.
+
+  -Summary:
+    - CrossyRoad folder should have: Config, Content, Intermediate, Saved, and CrossyRoad.uproject
+    
+    - Saved folder should have: Autosaves, Backup, Config, Logs, and AutoScreenshot.png
 
 ===============================================================================
 
