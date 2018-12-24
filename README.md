@@ -1,7 +1,8 @@
 # CrossyRoad
 
-#Assets Imported (Almost all assets were oddly recolored when imported)
-#o Chicken/Squashed Chicken
+Assets Imported (Almost all assets were oddly recolored when imported)
+
+o Chicken/Squashed Chicken
 o Tree Frog/Squashed Tree Frog
 o Mad Wizard/Squashed Mad Wizard
 o Hipster Whale/Squashed Hipster Whale
