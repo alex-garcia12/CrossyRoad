@@ -71,6 +71,8 @@ Download Process
     - CrossyRoad folder should have: Config, Content, Intermediate, Saved, and CrossyRoad.uproject
     
     - Saved folder should have: Autosaves, Backup, Config, Logs, and AutoScreenshot.png
+    
+    -Please let me know if something else is needed; I hope this all uploaded correctly and is acceptable
 
 ===============================================================================
 
