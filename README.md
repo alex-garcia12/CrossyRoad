@@ -57,5 +57,15 @@ game however, the land seems to spawn a bit oddly but appears correctly the more
 
 ===============================================================================
 
+Download Process
+
+-This project was very difficult to upload for me to upload so many files and folders are in .zip format. For the project to run properly, follow this format:
+
+  -All files should be in the CrossyRoad folder
+  
+  -The first things to look for when opening the CrossyRoad folder is Config, Content, Intermediate, Saved, and CrossyRoad.uproject. In    GitHub, Config, Content, and Intermediate are all found in one .zip. The Saved folder had to be split into 2 other .zip folders.
+
+===============================================================================
+
 Conclusion
 -This project was very difficult for me. I had a slow and frustrating time trying to figure out a lot of these things only to not get very far. Personally, the worst part about it all is that I feel like I didn't learn much from this project among other things. 
