@@ -1,5 +1,11 @@
 # CrossyRoad
+This is a barebones recreation of the popular mobile game Crossy Road. There are several assets imported into the game but
+most are not used. Additionally, the things the player can do are very limited; the player can really only move and there is
+no way to win or lose.
 
+This project was made using the Unreal Engine software.
+
+==============================================================================
 Assets Imported (Almost all assets were oddly recolored when imported)
 
 o Chicken/Squashed Chicken
@@ -32,23 +38,7 @@ o Only the chicken, grass, road, river, and a few cars have been actually implem
 
 Things to Look Out For
 
--Very Basic HUD/UI is there but not implemented. Does not track any stats.
-
--Cars move forward but they do not continuously spawn while the player advances.
-
--No audio or special lighting.
-
--No railroads, trains, etc.
-
--No lily pads and no real logs, logs are sort of drawn on the model.
-
--No particle system.
-
--Car can collide with player but nothing happens aside from the car stopping.
-
 -Chicken doesnt hop but does move a set distance (teleports) whenever the player hits W A S or D.
-
--No eagle.
 
 -Chicken does not face the correct way when changing directions (always faces forwards).
 
@@ -59,7 +49,7 @@ game however, the land seems to spawn a bit oddly but appears correctly the more
 
 Download Process
 
--This project was very difficult to upload for me to upload so many files and folders are in .zip format. For the project to run properly, follow this format:
+-For the project to run properly, follow this format:
 
   -All files should be in the CrossyRoad folder. The folders within each .zip file should be extracted and placed within the folder the   .zip was found in.
   
@@ -71,10 +61,5 @@ Download Process
     - CrossyRoad folder should have: Config, Content, Intermediate, Saved, and CrossyRoad.uproject
     
     - Saved folder should have: Autosaves, Backup, Config, Logs, and AutoScreenshot.png
-    
-    -Please let me know if something else is needed; I hope this all uploaded correctly and is acceptable
 
 ===============================================================================
-
-Conclusion
--This project was very difficult for me. I had a slow and frustrating time trying to figure out a lot of these things only to not get very far. Personally, the worst part about it all is that I feel like I didn't learn much from this project among other things. 
